@@ -1130,3 +1130,12 @@ Entries:
       message: Killed the Thieving and Frisky traits in physical traits.
   id: 133
   time: '2025-11-14T03:00:04.0000000+00:00'
+- author: Tuerk
+  changes:
+    - type: Add
+      message: >-
+        Cargo Request Slips are re-enabled! If you want your mats, crayons or
+        five hundred gorillas, have the stamped docs ready and be nice to your
+        CTs!
+  id: 134
+  time: '2025-11-14T03:12:52.0000000+00:00'
