@@ -430,10 +430,10 @@
     accent-pirate-replaced-102: accent-pirate-replacement-102
     accent-pirate-replaced-103: accent-pirate-replacement-103
     accent-pirate-replaced-104: accent-pirate-replacement-104
-    accent-pirate-replaced-104: accent-pirate-replacement-105
-    accent-pirate-replaced-104: accent-pirate-replacement-106
-    accent-pirate-replaced-104: accent-pirate-replacement-107
-    accent-pirate-replaced-104: accent-pirate-replacement-108
+    accent-pirate-replaced-105: accent-pirate-replacement-105
+    accent-pirate-replaced-106: accent-pirate-replacement-106
+    accent-pirate-replaced-107: accent-pirate-replacement-107
+    accent-pirate-replaced-108: accent-pirate-replacement-108
 
 - type: accent
   id: cowboy
