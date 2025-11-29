@@ -53,13 +53,13 @@ accent-pirate-replacement-13 = doubloons
 accent-pirate-replaced-14 = crate
 accent-pirate-replacement-14 = coffer
 
-accent-pirate-replaced-15 = hello
-accent-pirate-replacement-15 = ahoy
+accent-pirate-replaced-15 = of
+accent-pirate-replacement-15 = o'
 
 accent-pirate-replaced-16 = treasure
 accent-pirate-replacement-16 = booty
 
-accent-pirate-replaced-17 = attention
+accent-pirate-replaced-17 = stop
 accent-pirate-replacement-17 = avast
 
 accent-pirate-replaced-18 = stupid
